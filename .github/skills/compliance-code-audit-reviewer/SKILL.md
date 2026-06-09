@@ -12,7 +12,7 @@ user-invocable: true
 - Gib alle nutzerseitigen Ausgaben auf Deutsch und Englisch aus.
 - For each major section in reports, present German first, then English.
 - Stelle in jedem Hauptabschnitt zuerst Deutsch und danach Englisch dar.
-- Keep regulatory terms consistent across both languages (for example DORA, VAIT, NIS2, GDPR/DSGVO).
+- Keep regulatory terms consistent across both languages (e.g. DORA, VAIT, NIS2, GDPR/DSGVO).
 - Halte regulatorische Begriffe in beiden Sprachen konsistent (z. B. DORA, VAIT, NIS2, GDPR/DSGVO).
 
 ## Goal
