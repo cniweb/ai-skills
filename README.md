@@ -9,6 +9,7 @@ All skill definitions are stored in `.github/skills/<skill-name>/SKILL.md`.
 | Skill | Description |
 | --- | --- |
 | `compliance-code-audit-reviewer` | Performs compliance-focused code audits (DORA, VAIT, NIS2, GDPR/DSGVO) with prioritized findings, control mapping, and remediation actions. |
+| `devils-advocate` | Stress-tests ideas, plans, decisions, or arguments with strong counterarguments, hidden assumptions, pre-mortems, and concrete defenses. |
 | `github-issue-implementer` | Orchestrates end-to-end GitHub issue delivery: understands requirements, delegates implementation and validation, then summarizes outcomes. |
 | `github-issue-implementation-executor` | Subagent focused on minimal, scoped code implementation and test updates for defined GitHub issue requirements. |
 | `github-issue-validation-runner` | Subagent that validates issue changes with prioritized checks and reports evidence plus residual risks. |
